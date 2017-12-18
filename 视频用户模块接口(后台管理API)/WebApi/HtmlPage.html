@@ -1,0 +1,23 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+</head>
+<body>
+    <form action="LiveBaseDataApi.ashx?action=login" id="form1" name="form1" method="post">
+        url:<input type="text" name="url" id="url" value="" style="width:500px" /><br />
+        <input type="text" name="userName" id="userName" value="" style="width:500px" />
+        <br />
+        <input type="text" name="passWord" id="passWord" value="" style="width:500px" />
+
+        <input type="button" onclick="javascript: cs();" value="提交" />
+    </form>
+</body>
+</html>
+<script type="application/javascript">
+    function cs() {
+        document.getElementById("form1").action = document.getElementById("url").value;
+        document.getElementById("form1").submit();
+    }
+</script>

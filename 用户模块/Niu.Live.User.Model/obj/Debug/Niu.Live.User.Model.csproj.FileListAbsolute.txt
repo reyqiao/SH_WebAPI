@@ -1,0 +1,12 @@
+E:\汇交易\fx8888\用户模块\Niu.Live.User.Model\bin\Debug\Niu.Live.User.Model.dll
+E:\汇交易\fx8888\用户模块\Niu.Live.User.Model\bin\Debug\Niu.Live.User.Model.pdb
+E:\汇交易\fx8888\用户模块\Niu.Live.User.Model\bin\Debug\Newtonsoft.Json.dll
+E:\汇交易\fx8888\用户模块\Niu.Live.User.Model\bin\Debug\Newtonsoft.Json.xml
+E:\汇交易\fx8888\用户模块\Niu.Live.User.Model\obj\Debug\Niu.Live.User.Model.dll
+E:\汇交易\fx8888\用户模块\Niu.Live.User.Model\obj\Debug\Niu.Live.User.Model.pdb
+D:\工作\汇交易\fx8888\用户模块\Niu.Live.User.Model\bin\Debug\Niu.Live.User.Model.dll
+D:\工作\汇交易\fx8888\用户模块\Niu.Live.User.Model\bin\Debug\Niu.Live.User.Model.pdb
+D:\工作\汇交易\fx8888\用户模块\Niu.Live.User.Model\bin\Debug\Newtonsoft.Json.dll
+D:\工作\汇交易\fx8888\用户模块\Niu.Live.User.Model\bin\Debug\Newtonsoft.Json.xml
+D:\工作\汇交易\fx8888\用户模块\Niu.Live.User.Model\obj\Debug\Niu.Live.User.Model.dll
+D:\工作\汇交易\fx8888\用户模块\Niu.Live.User.Model\obj\Debug\Niu.Live.User.Model.pdb

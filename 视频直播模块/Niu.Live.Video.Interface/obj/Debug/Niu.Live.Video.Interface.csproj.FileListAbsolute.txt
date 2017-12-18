@@ -1,0 +1,13 @@
+E:\汇交易\fx8888\视频模块\Niu.Live.Video.Interface\bin\Debug\Niu.Live.Video.Interface.dll
+E:\汇交易\fx8888\视频模块\Niu.Live.Video.Interface\bin\Debug\Niu.Live.Video.Interface.pdb
+E:\汇交易\fx8888\视频模块\Niu.Live.Video.Interface\obj\Debug\Niu.Live.Video.Interface.dll
+E:\汇交易\fx8888\视频模块\Niu.Live.Video.Interface\obj\Debug\Niu.Live.Video.Interface.pdb
+D:\工作\汇交易\fx8888\视频模块\Niu.Live.Video.Interface\bin\Debug\Niu.Live.Video.Interface.dll
+D:\工作\汇交易\fx8888\视频模块\Niu.Live.Video.Interface\bin\Debug\Niu.Live.Video.Interface.pdb
+D:\工作\汇交易\fx8888\视频模块\Niu.Live.Video.Interface\obj\Debug\Niu.Live.Video.Interface.dll
+D:\工作\汇交易\fx8888\视频模块\Niu.Live.Video.Interface\obj\Debug\Niu.Live.Video.Interface.pdb
+E:\工作\汇交易\fx8888\视频直播模块\Niu.Live.Video.Interface\bin\Debug\Niu.Live.Video.Interface.dll
+E:\工作\汇交易\fx8888\视频直播模块\Niu.Live.Video.Interface\bin\Debug\Niu.Live.Video.Interface.pdb
+E:\工作\汇交易\fx8888\视频直播模块\Niu.Live.Video.Interface\obj\Debug\Niu.Live.Video.Interface.csprojResolveAssemblyReference.cache
+E:\工作\汇交易\fx8888\视频直播模块\Niu.Live.Video.Interface\obj\Debug\Niu.Live.Video.Interface.dll
+E:\工作\汇交易\fx8888\视频直播模块\Niu.Live.Video.Interface\obj\Debug\Niu.Live.Video.Interface.pdb

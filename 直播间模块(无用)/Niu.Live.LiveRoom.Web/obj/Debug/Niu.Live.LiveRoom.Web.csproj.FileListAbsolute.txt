@@ -1,0 +1,2 @@
+E:\汇交易\fx8888\直播间模块\Niu.Live.LiveRoom.Web\obj\Debug\Niu.Live.LiveRoom.Web.csprojResolveAssemblyReference.cache
+D:\工作\汇交易\fx8888\直播间模块\Niu.Live.LiveRoom.Web\obj\Debug\Niu.Live.LiveRoom.Web.csprojResolveAssemblyReference.cache

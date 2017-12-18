@@ -1,0 +1,59 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Niu.Live.User.DataAccess", "Niu.Live.User.DataAccess\Niu.Live.User.DataAccess.csproj", "{8AB11224-9CF3-45DF-9F83-0D34EDC25906}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Niu.Live.User.BusinessLogic", "Niu.Live.User.BusinessLogic\Niu.Live.User.BusinessLogic.csproj", "{E0B81C4F-9071-4DCE-A425-707904B3B1D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Niu.Live.User.Model", "Niu.Live.User.Model\Niu.Live.User.Model.csproj", "{FDE4E993-BB41-486A-80AB-C722AE40E69A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Niu.Live.User.Core", "Niu.Live.User.Core\Niu.Live.User.Core.csproj", "{B8C62198-C112-4604-B86E-730E50CF164B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{BB4D5EB8-2E9D-4412-9827-6559535A23C5}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Niu.Live.User.Api", "Niu.Live.User.Api\Niu.Live.User.Api.csproj", "{F8C8ECD5-076D-4C3D-85E2-94A4C496A85C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Niu.Live.User.IModel", "Niu.Live.User.IModel\Niu.Live.User.IModel.csproj", "{F10CA56B-20A0-4114-A26E-912FB6219A82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8AB11224-9CF3-45DF-9F83-0D34EDC25906}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AB11224-9CF3-45DF-9F83-0D34EDC25906}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AB11224-9CF3-45DF-9F83-0D34EDC25906}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AB11224-9CF3-45DF-9F83-0D34EDC25906}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0B81C4F-9071-4DCE-A425-707904B3B1D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0B81C4F-9071-4DCE-A425-707904B3B1D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0B81C4F-9071-4DCE-A425-707904B3B1D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0B81C4F-9071-4DCE-A425-707904B3B1D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDE4E993-BB41-486A-80AB-C722AE40E69A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDE4E993-BB41-486A-80AB-C722AE40E69A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDE4E993-BB41-486A-80AB-C722AE40E69A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDE4E993-BB41-486A-80AB-C722AE40E69A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8C62198-C112-4604-B86E-730E50CF164B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8C62198-C112-4604-B86E-730E50CF164B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8C62198-C112-4604-B86E-730E50CF164B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8C62198-C112-4604-B86E-730E50CF164B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8C8ECD5-076D-4C3D-85E2-94A4C496A85C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8C8ECD5-076D-4C3D-85E2-94A4C496A85C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8C8ECD5-076D-4C3D-85E2-94A4C496A85C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8C8ECD5-076D-4C3D-85E2-94A4C496A85C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F10CA56B-20A0-4114-A26E-912FB6219A82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F10CA56B-20A0-4114-A26E-912FB6219A82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F10CA56B-20A0-4114-A26E-912FB6219A82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F10CA56B-20A0-4114-A26E-912FB6219A82}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

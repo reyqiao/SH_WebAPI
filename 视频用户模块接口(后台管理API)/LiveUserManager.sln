@@ -1,0 +1,71 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WebApi", "http://localhost:16878", "{3DF99AA7-DA84-46FF-9FDC-11579A0C2BDE}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		ProjectReferences = "{1ce248ea-0b7d-47a6-9fa6-1fa038c400e5}|Niugu.Common.dll;{1df71abe-4d40-4b77-9772-6cc28a070c81}|Model.dll;{f9a6b180-0864-4de7-9e28-e70c72c153cd}|BusinessFacade.dll;{7abe6289-f52e-4fa8-ac02-97c65b4fbdee}|DataAccess.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_16878"
+		Debug.AspNetCompiler.PhysicalPath = "WebApi\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_16878\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_16878"
+		Release.AspNetCompiler.PhysicalPath = "WebApi\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_16878\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "WebApi\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{7ABE6289-F52E-4FA8-AC02-97C65B4FBDEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessFacade", "BusinessFacade\BusinessFacade.csproj", "{F9A6B180-0864-4DE7-9E28-E70C72C153CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{1DF71ABE-4D40-4B77-9772-6CC28A070C81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DF99AA7-DA84-46FF-9FDC-11579A0C2BDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DF99AA7-DA84-46FF-9FDC-11579A0C2BDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DF99AA7-DA84-46FF-9FDC-11579A0C2BDE}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{3DF99AA7-DA84-46FF-9FDC-11579A0C2BDE}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DF99AA7-DA84-46FF-9FDC-11579A0C2BDE}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{3DF99AA7-DA84-46FF-9FDC-11579A0C2BDE}.Release|x64.ActiveCfg = Debug|Any CPU
+		{7ABE6289-F52E-4FA8-AC02-97C65B4FBDEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ABE6289-F52E-4FA8-AC02-97C65B4FBDEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ABE6289-F52E-4FA8-AC02-97C65B4FBDEE}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{7ABE6289-F52E-4FA8-AC02-97C65B4FBDEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7ABE6289-F52E-4FA8-AC02-97C65B4FBDEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7ABE6289-F52E-4FA8-AC02-97C65B4FBDEE}.Release|x64.ActiveCfg = Release|Any CPU
+		{F9A6B180-0864-4DE7-9E28-E70C72C153CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9A6B180-0864-4DE7-9E28-E70C72C153CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9A6B180-0864-4DE7-9E28-E70C72C153CD}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{F9A6B180-0864-4DE7-9E28-E70C72C153CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9A6B180-0864-4DE7-9E28-E70C72C153CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9A6B180-0864-4DE7-9E28-E70C72C153CD}.Release|x64.ActiveCfg = Release|Any CPU
+		{1DF71ABE-4D40-4B77-9772-6CC28A070C81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DF71ABE-4D40-4B77-9772-6CC28A070C81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DF71ABE-4D40-4B77-9772-6CC28A070C81}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{1DF71ABE-4D40-4B77-9772-6CC28A070C81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DF71ABE-4D40-4B77-9772-6CC28A070C81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DF71ABE-4D40-4B77-9772-6CC28A070C81}.Release|x64.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

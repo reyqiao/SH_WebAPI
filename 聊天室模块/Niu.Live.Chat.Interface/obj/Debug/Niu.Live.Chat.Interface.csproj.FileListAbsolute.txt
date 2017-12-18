@@ -1,0 +1,14 @@
+E:\汇交易\fx8888\聊天室模块\Niu.Live.Chat.Interface\bin\Debug\Niu.Live.Chat.Interface.dll
+E:\汇交易\fx8888\聊天室模块\Niu.Live.Chat.Interface\bin\Debug\Niu.Live.Chat.Interface.pdb
+E:\汇交易\fx8888\聊天室模块\Niu.Live.Chat.Interface\obj\Debug\Niu.Live.Chat.Interface.dll
+E:\汇交易\fx8888\聊天室模块\Niu.Live.Chat.Interface\obj\Debug\Niu.Live.Chat.Interface.pdb
+D:\工作\汇交易\fx8888\聊天室模块\Niu.Live.Chat.Interface\bin\Debug\Niu.Live.Chat.Interface.dll
+D:\工作\汇交易\fx8888\聊天室模块\Niu.Live.Chat.Interface\bin\Debug\Niu.Live.Chat.Interface.pdb
+D:\工作\汇交易\fx8888\聊天室模块\Niu.Live.Chat.Interface\obj\Debug\Niu.Live.Chat.Interface.dll
+D:\工作\汇交易\fx8888\聊天室模块\Niu.Live.Chat.Interface\obj\Debug\Niu.Live.Chat.Interface.pdb
+D:\工作\汇交易\fx8888\聊天室模块\Niu.Live.Chat.Interface\obj\Debug\Niu.Live.Chat.Interface.csprojResolveAssemblyReference.cache
+E:\工作\汇交易\后端API_SH\聊天室模块\Niu.Live.Chat.Interface\bin\Debug\Niu.Live.Chat.Interface.dll
+E:\工作\汇交易\后端API_SH\聊天室模块\Niu.Live.Chat.Interface\bin\Debug\Niu.Live.Chat.Interface.pdb
+E:\工作\汇交易\后端API_SH\聊天室模块\Niu.Live.Chat.Interface\obj\Debug\Niu.Live.Chat.Interface.csprojResolveAssemblyReference.cache
+E:\工作\汇交易\后端API_SH\聊天室模块\Niu.Live.Chat.Interface\obj\Debug\Niu.Live.Chat.Interface.dll
+E:\工作\汇交易\后端API_SH\聊天室模块\Niu.Live.Chat.Interface\obj\Debug\Niu.Live.Chat.Interface.pdb

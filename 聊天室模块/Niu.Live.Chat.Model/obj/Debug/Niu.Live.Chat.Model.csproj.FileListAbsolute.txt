@@ -1,0 +1,14 @@
+E:\汇交易\fx8888\聊天室模块\Niu.Live.Chat.Model\bin\Debug\Niu.Live.Chat.Model.dll
+E:\汇交易\fx8888\聊天室模块\Niu.Live.Chat.Model\bin\Debug\Niu.Live.Chat.Model.pdb
+E:\汇交易\fx8888\聊天室模块\Niu.Live.Chat.Model\obj\Debug\Niu.Live.Chat.Model.dll
+E:\汇交易\fx8888\聊天室模块\Niu.Live.Chat.Model\obj\Debug\Niu.Live.Chat.Model.pdb
+D:\工作\汇交易\fx8888\聊天室模块\Niu.Live.Chat.Model\bin\Debug\Niu.Live.Chat.Model.dll
+D:\工作\汇交易\fx8888\聊天室模块\Niu.Live.Chat.Model\bin\Debug\Niu.Live.Chat.Model.pdb
+D:\工作\汇交易\fx8888\聊天室模块\Niu.Live.Chat.Model\obj\Debug\Niu.Live.Chat.Model.dll
+D:\工作\汇交易\fx8888\聊天室模块\Niu.Live.Chat.Model\obj\Debug\Niu.Live.Chat.Model.pdb
+D:\工作\汇交易\fx8888\聊天室模块\Niu.Live.Chat.Model\obj\Debug\Niu.Live.Chat.Model.csprojResolveAssemblyReference.cache
+E:\工作\汇交易\后端API_SH\聊天室模块\Niu.Live.Chat.Model\bin\Debug\Niu.Live.Chat.Model.dll
+E:\工作\汇交易\后端API_SH\聊天室模块\Niu.Live.Chat.Model\bin\Debug\Niu.Live.Chat.Model.pdb
+E:\工作\汇交易\后端API_SH\聊天室模块\Niu.Live.Chat.Model\obj\Debug\Niu.Live.Chat.Model.csprojResolveAssemblyReference.cache
+E:\工作\汇交易\后端API_SH\聊天室模块\Niu.Live.Chat.Model\obj\Debug\Niu.Live.Chat.Model.dll
+E:\工作\汇交易\后端API_SH\聊天室模块\Niu.Live.Chat.Model\obj\Debug\Niu.Live.Chat.Model.pdb

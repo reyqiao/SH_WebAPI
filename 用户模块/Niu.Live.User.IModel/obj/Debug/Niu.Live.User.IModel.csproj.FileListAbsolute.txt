@@ -1,0 +1,13 @@
+E:\汇交易\fx8888\用户模块\Niu.Live.User.IModel\bin\Debug\Niu.Live.User.IModel.dll
+E:\汇交易\fx8888\用户模块\Niu.Live.User.IModel\bin\Debug\Niu.Live.User.IModel.pdb
+E:\汇交易\fx8888\用户模块\Niu.Live.User.IModel\obj\Debug\Niu.Live.User.IModel.dll
+E:\汇交易\fx8888\用户模块\Niu.Live.User.IModel\obj\Debug\Niu.Live.User.IModel.pdb
+D:\工作\汇交易\fx8888\用户模块\Niu.Live.User.IModel\bin\Debug\Niu.Live.User.IModel.dll
+D:\工作\汇交易\fx8888\用户模块\Niu.Live.User.IModel\bin\Debug\Niu.Live.User.IModel.pdb
+D:\工作\汇交易\fx8888\用户模块\Niu.Live.User.IModel\obj\Debug\Niu.Live.User.IModel.dll
+D:\工作\汇交易\fx8888\用户模块\Niu.Live.User.IModel\obj\Debug\Niu.Live.User.IModel.pdb
+E:\工作\汇交易\fx8888\用户模块\Niu.Live.User.IModel\bin\Debug\Niu.Live.User.IModel.dll
+E:\工作\汇交易\fx8888\用户模块\Niu.Live.User.IModel\bin\Debug\Niu.Live.User.IModel.pdb
+E:\工作\汇交易\fx8888\用户模块\Niu.Live.User.IModel\obj\Debug\Niu.Live.User.IModel.csprojResolveAssemblyReference.cache
+E:\工作\汇交易\fx8888\用户模块\Niu.Live.User.IModel\obj\Debug\Niu.Live.User.IModel.dll
+E:\工作\汇交易\fx8888\用户模块\Niu.Live.User.IModel\obj\Debug\Niu.Live.User.IModel.pdb
