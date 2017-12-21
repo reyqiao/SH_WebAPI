@@ -870,5 +870,38 @@ namespace DataAccess
             }
             return null;
         }
+
+        public static bool isExistsNickName(string nickName)
+        {
+            string cmdText = " select UserId from [User] where NickName=@nickName ";
+            SqlParameter[] array = new SqlParameter[]
+            {
+              new SqlParameter("@nickName", SqlDbType.NVarChar)
+            };
+            array[0].Value = nickName;
+            DataTable dataTable = SqlHelper.ExecuteDataSet(cmdText, array).Tables[0];
+            return dataTable != null && dataTable.Rows.Count > 0;
+        }
+        public static int ModifyNickName(long userid, string nickName)
+        {
+            int result;
+            try
+            {
+                string cmdText = "update [User] set [NickName]=@NickName  where userid=@userid";
+                SqlParameter[] array = new SqlParameter[]
+                {
+                   new SqlParameter("@userid", SqlDbType.BigInt, 8),
+                   new SqlParameter("@NickName", SqlDbType.NVarChar, 50)
+                };
+                array[0].Value = userid;
+                array[1].Value = nickName;
+                result = SqlHelper.ExecuteNonQuery(cmdText, array);
+            }
+            catch
+            {
+                result = -1;
+            }
+            return result;
+        }
     }
 }
